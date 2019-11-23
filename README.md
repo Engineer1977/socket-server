@@ -3,7 +3,7 @@
 # Socket-Server
 
 
-Recontruir módulos de Node
+Reconstruir módulos de Node
 ```
 npm install
 ```
@@ -18,3 +18,6 @@ Levantar servidor, cualquiera de estos dos comandos
 nodemon dist/
 node dist/
 ```
+
+
+
